@@ -1,0 +1,5 @@
+package com.david.service;
+
+public interface TestTransService {
+    public void testPropagationTrans();
+}
